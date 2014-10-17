@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[inb:home|Door43 (inb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-inb|d43-inb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-inb/archive/master.zip|d43-inb.zip]]
+
+**Recent Changes**
+{{changes>ns = inb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/inb|Ethnologue data]]
+
